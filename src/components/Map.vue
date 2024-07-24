@@ -168,17 +168,19 @@ export default {
 
             function getClusterClass(counts) {
               if (
-                counts.yellow > counts.orange &&
-                counts.yellow > counts.red &&
-                counts.yellow > counts.darkRed
+                counts.yellow &&
+                counts.orange === 0 &&
+                counts.red === 0 &&
+                counts.darkRed === 0
               ) {
                 return "custom-cluster-yellow";
               } else if (
-                counts.orange > counts.red &&
-                counts.orange > counts.darkRed
+                counts.orange &&
+                counts.red === 0 &&
+                counts.darkRed === 0
               ) {
                 return "custom-cluster-orange";
-              } else if (counts.red > counts.darkRed) {
+              } else if (counts.red && counts.darkRed === 0) {
                 return "custom-cluster-red";
               } else if (counts.darkRed) {
                 return "custom-cluster-dark-red";

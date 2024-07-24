@@ -1,0 +1,535 @@
+site_id,province,region,down_duration,latitude,longitude
+ST-4666,Agusan Del Norte,Caraga Region (Region XIII),19:01.5,9.020715,125.517469
+ST-3659,Agusan Del Norte,Caraga Region (Region XIII),19:00.0,9.1182,125.5354
+ST-3424,Agusan Del Norte,Caraga Region (Region XIII),19:05.1,8.9518,125.5412
+ST-3070,Agusan Del Norte,Caraga Region (Region XIII),18:23.7,9.1238,125.5378
+ST-3345,Agusan Del Sur,Caraga Region (Region XIII),49:28.6,8.60956,125.91535
+ST-3476,Agusan del Sur,Caraga Region (Region XIII),16:04.8,8.5458,125.9412
+ST-2671,Aklan,Western Visayas (Region VI),43:38.7,11.9817,121.9133
+ST-3231,Aklan,Western Visayas (Region VI),18:58.0,11.7045,122.3659
+ST-3038,Aklan,Western Visayas (Region VI),41:11.5,11.9492,121.939
+ST-3393,Aklan,Western Visayas (Region VI),14:11.2,11.7103,122.2949
+ST-1330,Albay,Bicol Region (Region V),46:20.2,13.14904,123.75298
+ST-2112,Albay,Bicol Region (Region V),44:37.8,13.2928,123.79168
+ST-3233,Albay,Bicol Region (Region V),51:43.2,13.1536,123.7108
+ST-3484,Antique,Western Visayas (Region VI),41:58.5,11.1439,122.0413
+ST-3485,Antique,Western Visayas (Region VI),48:03.7,11.5909,122.096
+ST-3129,Antique,Western Visayas (Region VI),28:17.1,11.1947377,122.0375
+ST-2854,Antique,Western Visayas (Region VI),03:34.4,11.7198,122.095
+ST-1916,Antique,Western Visayas (Region VI),37:57.3,10.7463,121.94139
+ST-2469,Antique,Western Visayas (Region VI),42:10.7,10.7879,122.0182
+ST-4508,Bataan,Central Luzon (Region III),10:26.1,14.559249,120.595394
+ST-4318,Bataan,Central Luzon (Region III),02:52.0,14.8796,120.4618
+ST-4438,Bataan,Central Luzon (Region III),19:14.2,14.79327,120.5384
+ST-4818,Bataan,Central Luzon (Region III),08:11.8,14.703067,120.537791
+ST-1786,Bataan,Central Luzon (Region III),48:47.9,14.64665,120.53851
+ST-0970,Bataan,Central Luzon (Region III),39:23.7,14.80092,120.5364
+ST-3191,Bataan,Central Luzon (Region III),36:01.6,14.4909,120.6009
+ST-4595,Batangas,CALABARZON (Region IV-A),59:20.9,13.82688,120.9929
+ST-3463,Batangas,CALABARZON (Region IV-A),22:53.6,13.7799,121.0676
+ST-1488,Batangas,CALABARZON (Region IV-A),19:03.7,13.94251,121.13623
+ST-3511,Batangas,CALABARZON (Region IV-A),19:04.6,13.7599,121.0631
+ST-2905,Batangas,CALABARZON (Region IV-A),22:19.9,14.01747,121.09528
+ST-3270,Batangas,CALABARZON (Region IV-A),44:41.8,13.7917,120.9907243
+ST-4640,Batangas,CALABARZON (Region IV-A),19:06.0,13.93979,120.77517
+ST-3196,Batangas,CALABARZON (Region IV-A),24:59.1,13.9458,120.7301
+ST-3108,Batangas,CALABARZON (Region IV-A),04:04.6,14.1007,121.0987
+ST-0465,Batangas,CALABARZON (Region IV-A),48:43.7,13.8804,120.9231
+ST-0951,Batangas,CALABARZON (Region IV-A),40:48.8,14.0659,121.2078
+ST-3195,Batangas,CALABARZON (Region IV-A),49:29.5,13.8798,120.6407
+ST-4431,Batangas,CALABARZON (Region IV-A),18:55.1,13.9735845,121.2020389
+ST-3260,Batangas,CALABARZON (Region IV-A),46:17.1,13.8317,120.6315
+ST-3269,Batangas,CALABARZON (Region IV-A),46:01.9,13.7883,120.9825
+ST-3478,Batangas,CALABARZON (Region IV-A),19:03.2,13.8152,121.3988
+ST-4632,Batangas,CALABARZON (Region IV-A),20:16.1,14.092648,121.016304
+ST-3920,Batangas,CALABARZON (Region IV-A),21:46.1,13.882106,120.920171
+ST-1850,Benguet,Cordillera Administrative Region (CAR),09:48.5,16.4186849,120.5987
+ST-4383,Bohol,Central Visayas (Region VII),17:27.1,10.324615,123.94989
+ST-2820,Bohol,Central Visayas (Region VII),05:03.8,9.64217,123.8542
+ST-3586,Bohol,Central Visayas (Region VII),23:39.0,10.057,124.4729
+ST-2366,Bukidnon,Northern Mindanao (Region X),18:57.4,8.16061,125.1218
+ST-4813,Bukidnon,Northern Mindanao (Region X),41:58.5,8.361361,124.812066
+ST-3255,Bukidnon,Northern Mindanao (Region X),47:21.3,7.8312,124.8288
+ST-4924,Bukidnon,Northern Mindanao (Region X),49:49.5,7.997476,125.024623
+ST-3419,Bulacan,Central Luzon (Region III),18:53.4,14.8282,120.8846
+ST-0789,Bulacan,Central Luzon (Region III),18:53.7,14.8566,120.813
+ST-1575,Bulacan,Central Luzon (Region III),51:43.2,14.849,121.0495
+ST-3596,Bulacan,Central Luzon (Region III),41:58.5,14.86,120.9906
+ST-1885,Bulacan,Central Luzon (Region III),48:03.7,14.76152,120.94847
+ST-2265,Bulacan,Central Luzon (Region III),28:17.1,14.86479,120.95759
+ST-3387,Bulacan,Central Luzon (Region III),03:34.4,14.8435,120.8109
+ST-3068,Bulacan,Central Luzon (Region III),37:57.3,14.8306,120.9448
+ST-3595,Bulacan,Central Luzon (Region III),42:10.7,14.9057,121.0389
+ST-4703,Bulacan,Central Luzon (Region III),10:26.1,15.057363,120.938447
+ST-3378,Bulacan,Central Luzon (Region III),02:52.0,14.840192,120.7421
+ST-4706,Bulacan,Central Luzon (Region III),19:14.2,14.92268635,121.029295
+ST-4253,Bulacan,Central Luzon (Region III),08:11.8,14.812258,121.07644
+ST-1163,Bulacan,Central Luzon (Region III),48:47.9,14.8095,121.0578
+ST-1739,Bulacan,Central Luzon (Region III),39:23.7,14.7885,121.07444
+ST-3099,Bulacan,Central Luzon (Region III),36:01.6,14.846,120.8344
+ST-3343,Bulacan,Central Luzon (Region III),59:20.9,14.8364,120.7874
+ST-3621,Bulacan,Central Luzon (Region III),22:53.6,14.816334,120.9097
+ST-3092,Bulacan,Central Luzon (Region III),19:03.7,14.8081,121.0426
+ST-3540,Bulacan,Central Luzon (Region III),19:04.6,14.8583,120.859
+ST-0743,Bulacan,Central Luzon (Region III),22:19.9,14.86595,120.99638
+ST-3553,Bulacan,Central Luzon (Region III),49:29.5,14.9763,120.9182
+ST-3700,Bulacan,Central Luzon (Region III),18:55.1,14.841927,121.036775
+ST-4373,Bulacan,Central Luzon (Region III),46:17.1,14.95031,120.9283
+ST-3573,Bulacan,Central Luzon (Region III),46:01.9,14.9361,120.8426
+ST-3560,Cagayan,Cagayan Valley (Region II),19:03.2,17.6266,121.7388
+ST-3575,Cagayan,Cagayan Valley (Region II),20:16.1,18.3501,121.6402
+ST-3396,Cagayan,Cagayan Valley (Region II),21:46.1,17.6141,121.7297
+ST-3415,Cagayan,Cagayan Valley (Region II),09:48.5,18.2269,121.5585
+ST-3466,Cagayan,Cagayan Valley (Region II),17:27.1,18.601,121.0853
+ST-3316,Cagayan,Cagayan Valley (Region II),05:03.8,17.6254,121.7198
+ST-3686,Camarines Norte,Bicol Region (Region V),23:39.0,14.111221,122.955915
+ST-0705,Camarines Sur,Bicol Region (Region V),18:57.4,13.59665,123.25694
+ST-5090,Camarines Sur,Bicol Region (Region V),41:58.5,0,0
+ST-1494,Camarines Sur,Bicol Region (Region V),47:21.3,13.7487,122.9738
+ST-2807,Capiz,Western Visayas (Region VI),49:49.5,11.2617,122.5367
+ST-3230,Capiz,Western Visayas (Region VI),18:53.4,11.4953,122.6046
+ST-3227,Capiz,Western Visayas (Region VI),18:53.7,11.408,122.5113
+ST-2335,Capiz,Western Visayas (Region VI),51:43.2,11.39326,122.68466
+ST-3293,Cavite,CALABARZON (Region IV-A),41:58.5,14.3523718,120.901
+ST-2039,Cavite,CALABARZON (Region IV-A),48:03.7,14.1875,120.75665
+ST-0569,Cavite,CALABARZON (Region IV-A),28:17.1,14.4507,120.9286
+ST-3049,Cavite,CALABARZON (Region IV-A),03:34.4,14.1834,120.9609
+ST-1691,Cavite,CALABARZON (Region IV-A),37:57.3,14.38515,120.97687
+ST-1771,Cavite,CALABARZON (Region IV-A),42:10.7,14.36254,120.89548
+ST-4399,Cavite,CALABARZON (Region IV-A),19:01.5,14.32053,120.8941
+ST-0429,Cavite,CALABARZON (Region IV-A),19:00.0,14.0976,120.9197
+ST-1413,Cavite,CALABARZON (Region IV-A),19:05.1,14.38056,120.83627
+ST-0264,Cavite,CALABARZON (Region IV-A),18:23.7,14.2814,120.86838
+ST-4760,Cavite,CALABARZON (Region IV-A),49:28.6,14.132191,120.846675
+ST-4463,Cavite,CALABARZON (Region IV-A),16:04.8,14.38179,120.8793
+ST-3163,Cavite,CALABARZON (Region IV-A),43:38.7,14.2734,120.7538
+ST-3547,Cavite,CALABARZON (Region IV-A),18:58.0,14.4417,120.9342
+ST-0846,Cavite,CALABARZON (Region IV-A),41:11.5,14.3205,120.861
+ST-2249,Cavite,CALABARZON (Region IV-A),14:11.2,14.318,120.971
+ST-1042,Cavite,CALABARZON (Region IV-A),46:20.2,14.3963,120.96825
+ST-1947,Cavite,CALABARZON (Region IV-A),44:37.8,14.3745,120.8291
+ST-1133,Cavite,CALABARZON (Region IV-A),51:43.2,14.3744,120.92884
+ST-4249,Cavite,CALABARZON (Region IV-A),41:58.5,14.318457,120.752484
+ST-3350,Cavite,CALABARZON (Region IV-A),48:03.7,14.37092,120.824941
+ST-3081,Cavite,CALABARZON (Region IV-A),28:17.1,14.3297,120.9397
+ST-3277,Cavite,CALABARZON (Region IV-A),03:34.4,14.3952,120.9279
+ST-3332,Cavite,CALABARZON (Region IV-A),37:57.3,14.2785,120.9158
+ST-2044,Cavite,CALABARZON (Region IV-A),42:10.7,14.3993,120.9399
+ST-3991,Cebu,Central Visayas (Region VII),10:26.1,10.316942,123.90195
+ST-1797,Cebu,Central Visayas (Region VII),02:52.0,10.3107,124.0138
+ST-1281,Cebu,Central Visayas (Region VII),19:06.0,10.3117,123.92115
+ST-1271,Cebu,Central Visayas (Region VII),24:59.1,10.29759,123.8966
+ST-3366,Cebu,Central Visayas (Region VII),04:04.6,10.3859,123.9214
+ST-2993,Cebu,Central Visayas (Region VII),48:43.7,10.2985,123.8974
+ST-3303,Cebu,Central Visayas (Region VII),40:48.8,9.6251,123.4792
+ST-1045,Cebu,Central Visayas (Region VII),49:29.5,10.3079,124.0118
+ST-1570,Cebu,Central Visayas (Region VII),18:55.1,10.30832,123.89383
+ST-1375,Cebu,Central Visayas (Region VII),46:17.1,10.31101,123.89255
+ST-3497,Cebu,Central Visayas (Region VII),46:01.9,10.0154,123.6192
+ST-1618,Cebu,Central Visayas (Region VII),19:03.2,10.2994,123.8891
+ST-1901,Cebu,Central Visayas (Region VII),20:16.1,10.3365,123.9337
+ST-4234,Cebu,Central Visayas (Region VII),21:46.1,10.253912,123.83939
+ST-1094,Cebu,Central Visayas (Region VII),09:48.5,10.3285,123.90532
+ST-3027,Cebu,Central Visayas (Region VII),17:27.1,9.9384,123.3933
+ST-2150,Cebu,Central Visayas (Region VII),05:03.8,10.3251,123.9161
+ST-4857,Davao de Oro,Davao Region (Region XI),23:39.0,7.546495,126.024347
+ST-4300,Davao del Norte,Davao Region (Region XI),18:57.4,7.432026,125.797009
+ST-3494,Davao del Norte,Davao Region (Region XI),41:58.5,7.587,125.823
+ST-2284,Davao Del Sur,Davao Region (Region XI),47:21.3,7.032,125.5135
+ST-1834,Davao Del Sur,Davao Region (Region XI),49:49.5,7.0585,125.6013
+ST-4411,Davao Del Sur,Davao Region (Region XI),18:53.4,7.096971899,125.6176926
+ST-1846,Davao Del Sur,Davao Region (Region XI),18:53.7,7.0978,125.61937
+ST-2383,Davao Del Sur,Davao Region (Region XI),51:43.2,7.05346,125.59772
+ST-4812,Davao del Sur,Davao Region (Region XI),41:58.5,6.709308,125.216393
+ST-2641,Davao Del Sur,Davao Region (Region XI),18:58.0,7.06766,125.6178
+ST-2113,Davao Del Sur,Davao Region (Region XI),41:11.5,7.0716,125.61184
+ST-4262,Davao Oriental,Davao Region (Region XI),14:11.2,7.209691,126.533642
+ST-4803,Davao Oriental,Davao Region (Region XI),46:20.2,6.626898,126.080272
+ST-4028,General Santos,SOCCSKSARGEN (Region XII),44:37.8,6.119149,125.179672
+ST-2697,Ilocos Norte,Ilocos Region (Region I),51:43.2,18.33289,120.61836
+ST-3308,Ilocos Norte,Ilocos Region (Region I),41:58.5,18.1564,120.6466
+ST-1027,Ilocos Sur,Ilocos Region (Region I),48:03.7,17.19254,120.4473
+ST-3358,Ilocos Sur,Ilocos Region (Region I),28:17.1,16.9623,120.4452
+ST-2851,Ilocos Sur,Ilocos Region (Region I),03:34.4,17.5602,120.3851
+ST-1475,Iloilo,Western Visayas (Region VI),37:57.3,10.7162,122.56216
+ST-1619,Iloilo,Western Visayas (Region VI),42:10.7,10.69203,122.4773
+ST-2015,Iloilo,Western Visayas (Region VI),10:26.1,10.76819,122.5365
+ST-1678,Iloilo,Western Visayas (Region VI),02:52.0,10.64236,122.2364
+ST-2977,Iloilo,Western Visayas (Region VI),19:06.0,10.693818,122.498676
+ST-3523,Iloilo,Western Visayas (Region VI),24:59.1,10.8813,122.4854
+ST-2087,Iloilo,Western Visayas (Region VI),04:04.6,10.72251,122.5545
+ST-1584,Iloilo,Western Visayas (Region VI),48:43.7,10.68689,122.51647
+ST-1574,Iloilo,Western Visayas (Region VI),40:48.8,10.69301,122.57226
+ST-2853,Iloilo,Western Visayas (Region VI),49:29.5,10.7739,122.5418
+ST-4620,Ilo-Ilo,Western Visayas (Region VI),18:55.1,10.878308,122.597901
+ST-3283,Isabela,Cagayan Valley (Region II),19:01.5,16.6965,121.6444
+ST-1039,La Union,Ilocos Region (Region I),19:00.0,16.89376,120.4238
+ST-2378,La Union,Ilocos Region (Region I),19:05.1,16.2411,120.40596
+ST-1820,La Union,Ilocos Region (Region I),18:23.7,16.5904,120.3197
+ST-3417,La Union,Ilocos Region (Region I),49:28.6,16.6206,120.3165
+ST-0732,La Union,Ilocos Region (Region I),16:04.8,16.5284,120.33
+ST-3329,La Union,Ilocos Region (Region I),43:38.7,16.8224,120.403
+ST-1515,La Union,Ilocos Region (Region I),18:58.0,16.61517,120.31664
+ST-3432,Laguna,CALABARZON (Region IV-A),41:11.5,14.26491,121.437887
+ST-3614,Laguna,CALABARZON (Region IV-A),14:11.2,14.3386,121.4827
+ST-0494,Laguna,CALABARZON (Region IV-A),46:20.2,14.17278,121.24316
+ST-3334,Laguna,CALABARZON (Region IV-A),44:37.8,14.3006,121.1076
+ST-1830,Laguna,CALABARZON (Region IV-A),51:43.2,14.34322,121.04483
+ST-1810,Laguna,CALABARZON (Region IV-A),41:58.5,14.3647,121.0573
+ST-3057,Laguna,CALABARZON (Region IV-A),48:03.7,14.211935,121.1292715
+ST-3232,Laguna,CALABARZON (Region IV-A),28:17.1,14.1823,121.1765
+ST-2037,Laguna,CALABARZON (Region IV-A),03:34.4,14.2797,121.1364
+ST-0519,Laguna,CALABARZON (Region IV-A),37:57.3,14.1634,121.2411
+ST-2435,Laguna,CALABARZON (Region IV-A),42:10.7,14.0659,121.2883
+ST-2515,Laguna,CALABARZON (Region IV-A),10:26.1,14.35423,121.06167
+ST-3515,Laguna,CALABARZON (Region IV-A),02:52.0,14.2778,121.0561
+ST-3318,Lanao Del Norte,Northern Mindanao (Region X),19:01.5,8.1859,124.164
+ST-3389,Lanao Del Norte,Northern Mindanao (Region X),19:00.0,8.2818,124.266
+ST-3422,Lanao Del Norte,Northern Mindanao (Region X),19:05.1,7.897527,123.768922
+ST-3704,Lanao del Norte,Northern Mindanao (Region X),18:23.7,8.1904,124.0226
+ST-4089,Leyte,Eastern Visayas (Region VIII),49:28.6,10.837955,121.959897
+ST-3555,Leyte,Eastern Visayas (Region VIII),46:01.9,11.1851,124.5613
+ST-3585,Leyte,Eastern Visayas (Region VIII),19:03.2,10.9271,124.4381
+ST-3461,Metro Manila,National Capital Region (NCR),20:16.1,14.7467,120.996
+ST-1848,Metro Manila,National Capital Region (NCR),21:46.1,14.56736,121.02773
+ST-0627,Metro Manila,National Capital Region (NCR),09:48.5,14.55391,121.0221
+ST-3868,Metro Manila,National Capital Region (NCR),17:27.1,14.637146,120.993896
+ST-2141,Metro Manila,National Capital Region (NCR),05:03.8,14.57565,120.98753
+ST-0037,Metro Manila,National Capital Region (NCR),23:39.0,14.72193,121.03886
+ST-1234,Metro Manila,National Capital Region (NCR),18:57.4,14.5698,120.98618
+ST-0167,Metro Manila,National Capital Region (NCR),41:58.5,14.5616,121.0281
+ST-0033,Metro Manila,National Capital Region (NCR),47:21.3,14.61766,120.99502
+ST-3591,Metro Manila,National Capital Region (NCR),49:49.5,14.5439532,121.0651
+ST-3550,Metro Manila,National Capital Region (NCR),18:53.4,14.5812,120.9946
+ST-0742,Metro Manila,National Capital Region (NCR),18:53.7,14.6025,120.9905
+ST-3325,Metro Manila,National Capital Region (NCR),51:43.2,14.4147,121.0384
+ST-2452,Metro Manila,National Capital Region (NCR),41:58.5,14.6094,120.99282
+ST-0365,Metro Manila,National Capital Region (NCR),18:58.0,14.53543,121.0474
+ST-1740,Metro Manila,National Capital Region (NCR),41:11.5,14.58933,120.99692
+ST-4525,Metro Manila,National Capital Region (NCR),14:11.2,14.65783,121.0456
+ST-1889,Metro Manila,National Capital Region (NCR),46:20.2,14.69549,121.10944
+ST-1709,Metro Manila,National Capital Region (NCR),44:37.8,14.60114,121.05435
+ST-3209,Metro Manila,National Capital Region (NCR),51:43.2,14.5637,121.0164
+ST-5110,Metro Manila,National Capital Region (NCR),41:58.5,14.60894,120.98306
+ST-1599,Metro Manila,National Capital Region (NCR),48:03.7,14.60013,120.97513
+ST-0570,Metro Manila,National Capital Region (NCR),28:17.1,14.6004,121.04768
+ST-3440,Metro Manila,National Capital Region (NCR),03:34.4,14.5609,120.9971
+ST-3439,Metro Manila,National Capital Region (NCR),37:57.3,14.5578,120.9903
+ST-2144,Metro Manila,National Capital Region (NCR),42:10.7,14.5602,121.0631
+ST-1694,Metro Manila,National Capital Region (NCR),10:26.1,14.65774,121.0298
+ST-0104,Metro Manila,National Capital Region (NCR),02:52.0,14.6123,121.00859
+ST-2412,Metro Manila,National Capital Region (NCR),19:06.0,14.64546,120.95318
+ST-3171,Metro Manila,National Capital Region (NCR),19:01.5,14.6124,120.9882
+ST-2842,Metro Manila,National Capital Region (NCR),19:00.0,14.6572,121.0022
+ST-3340,Metro Manila,National Capital Region (NCR),19:05.1,14.5898,121.0895
+ST-3563,Metro Manila,National Capital Region (NCR),18:23.7,14.567329,121.0394
+ST-0420,Metro Manila,National Capital Region (NCR),49:28.6,14.578,121.0578
+ST-0022,Metro Manila,National Capital Region (NCR),16:04.8,14.62405,120.98922
+ST-0349,Metro Manila,National Capital Region (NCR),43:38.7,14.6635,121.00209
+ST-2735,Metro Manila,National Capital Region (NCR),18:58.0,14.6343,121.0378
+ST-3098,Metro Manila,National Capital Region (NCR),41:11.5,14.5675,121.0316
+ST-3734,Metro Manila,National Capital Region (NCR),14:11.2,14.417879,121.04467
+ST-0648,Metro Manila,National Capital Region (NCR),46:20.2,14.56541,121.04657
+ST-3352,Metro Manila,National Capital Region (NCR),44:37.8,14.513,120.9923
+ST-3458,Metro Manila,National Capital Region (NCR),51:43.2,14.5944691,121.0564
+ST-1117,Metro Manila,National Capital Region (NCR),41:58.5,14.5112,121.0578
+ST-2625,Metro Manila,National Capital Region (NCR),48:03.7,14.62107,121.05675
+ST-3454,Metro Manila,National Capital Region (NCR),28:17.1,14.5753,121.0119
+ST-2096,Metro Manila,National Capital Region (NCR),03:34.4,14.6225,121.0583
+ST-4389,Metro Manila,National Capital Region (NCR),37:57.3,14.43308,121.0129
+ST-3097,Metro Manila,National Capital Region (NCR),42:10.7,14.4837,121.0447
+ST-3222,Metro Manila,National Capital Region (NCR),10:26.1,14.62391,121.054622
+ST-2939,Metro Manila,National Capital Region (NCR),02:52.0,14.5731,121.0438
+ST-4528,Metro Manila,National Capital Region (NCR),19:14.2,14.62604,121.011
+ST-1784,Metro Manila,National Capital Region (NCR),08:11.8,14.5816,121.04939
+ST-1579,Metro Manila,National Capital Region (NCR),48:47.9,14.5931,120.97458
+ST-0656,Metro Manila,National Capital Region (NCR),39:23.7,14.6361,121.10118
+ST-0483,Metro Manila,National Capital Region (NCR),36:01.6,14.55386,121.04696
+ST-1555,Metro Manila,National Capital Region (NCR),59:20.9,14.5853,121.0881
+ST-2278,Metro Manila,National Capital Region (NCR),22:53.6,14.6462,120.9777
+ST-1128,Metro Manila,National Capital Region (NCR),19:03.7,14.6414,121.0403
+ST-2062,Metro Manila,National Capital Region (NCR),19:04.6,14.73972,120.98929
+ST-2358,Metro Manila,National Capital Region (NCR),22:19.9,14.6209,121.0499
+ST-0481,Metro Manila,National Capital Region (NCR),48:43.7,14.55549,121.0432
+ST-0652,Metro Manila,National Capital Region (NCR),40:48.8,14.7337,121.06751
+ST-3428,Metro Manila,National Capital Region (NCR),49:29.5,14.7123,120.9672
+ST-4093,Metro Manila,National Capital Region (NCR),18:55.1,14.465736,121.04389
+ST-0449,Metro Manila,National Capital Region (NCR),46:17.1,14.6109,121.079
+ST-2555,Metro Manila,National Capital Region (NCR),46:01.9,14.58485,121.06523
+ST-0098,Metro Manila,National Capital Region (NCR),19:03.2,14.60716,120.9672
+ST-2142,Metro Manila,National Capital Region (NCR),20:16.1,14.5546,120.99723
+ST-2066,Metro Manila,National Capital Region (NCR),21:46.1,14.71913,120.97621
+ST-4347,Metro Manila,National Capital Region (NCR),09:48.5,14.573134,120.994496
+ST-2526,Metro Manila,National Capital Region (NCR),17:27.1,14.5213,120.9902
+ST-1651,Metro Manila,National Capital Region (NCR),05:03.8,14.5508,121.076
+ST-0505,Metro Manila,National Capital Region (NCR),23:39.0,14.564,121.02892
+ST-3399,Metro Manila,National Capital Region (NCR),18:57.4,14.5611,121.0274
+ST-3239,Metro Manila,National Capital Region (NCR),41:58.5,14.6563,121.04
+ST-1801,Metro Manila,National Capital Region (NCR),47:21.3,14.6295,121.03207
+ST-3287,Metro Manila,National Capital Region (NCR),49:49.5,14.5261,121.0143
+ST-2165,Metro Manila,National Capital Region (NCR),18:53.4,14.5863,121.0799
+ST-0031,Metro Manila,National Capital Region (NCR),18:53.7,14.57567,121.04106
+ST-0030,Metro Manila,National Capital Region (NCR),51:43.2,14.54807,121.00051
+ST-0583,Metro Manila,National Capital Region (NCR),41:58.5,14.55889,121.04003
+ST-0336,Metro Manila,National Capital Region (NCR),18:58.0,14.57681,120.98043
+ST-0172,Metro Manila,National Capital Region (NCR),41:11.5,14.6384,121.02599
+ST-0272,Metro Manila,National Capital Region (NCR),14:11.2,14.48493,121.02997
+ST-0623,Metro Manila,National Capital Region (NCR),46:20.2,14.5984,120.98636
+ST-0513,Metro Manila,National Capital Region (NCR),44:37.8,14.5578,121.0175
+ST-0544,Metro Manila,National Capital Region (NCR),51:43.2,14.56557,120.98679
+ST-0636,Metro Manila,National Capital Region (NCR),41:58.5,14.4852,121.0397
+ST-0780,Metro Manila,National Capital Region (NCR),48:03.7,14.4631,120.9888
+ST-0817,Metro Manila,National Capital Region (NCR),28:17.1,14.6926,120.96417
+ST-0763,Metro Manila,National Capital Region (NCR),03:34.4,14.62343,121.0547
+ST-1594,Metro Manila,National Capital Region (NCR),37:57.3,14.7447,121.07779
+ST-3170,Metro Manila,National Capital Region (NCR),42:10.7,14.64959,121.0285
+ST-3135,Metro Manila,National Capital Region (NCR),10:26.1,14.60203,120.9977
+ST-2109,Metro Manila,National Capital Region (NCR),02:52.0,14.6173,120.9871
+ST-3173,Metro Manila,National Capital Region (NCR),19:06.0,14.767,121.063
+ST-2929,Metro Manila,National Capital Region (NCR),24:59.1,14.6821,121.0349
+ST-0148,Metro Manila,National Capital Region (NCR),04:04.6,14.57095,121.02044
+ST-3288,Metro Manila,National Capital Region (NCR),48:43.7,14.5442,120.991
+ST-1269,Metro Manila,National Capital Region (NCR),40:48.8,14.58104,121.05342
+ST-1347,Metro Manila,National Capital Region (NCR),49:29.5,14.6802,121.01809
+ST-1418,Metro Manila,National Capital Region (NCR),18:55.1,14.5578,121.0152
+ST-1447,Metro Manila,National Capital Region (NCR),19:01.5,14.49233,121.01459
+ST-2327,Metro Manila,National Capital Region (NCR),19:05.1,14.74549,121.002
+ST-1320,Metro Manila,National Capital Region (NCR),18:23.7,14.61672,120.9857
+ST-0821,Metro Manila,National Capital Region (NCR),49:28.6,14.60482,120.97235
+ST-0363,Metro Manila,National Capital Region (NCR),16:04.8,14.4685,121.01151
+ST-2398,Metro Manila,National Capital Region (NCR),43:38.7,14.40382,121.04694
+ST-3265,Metro Manila,National Capital Region (NCR),18:58.0,14.5431,121.0583
+ST-3282,Metro Manila,National Capital Region (NCR),41:11.5,14.55856,121.00983
+ST-0855,Metro Manila,National Capital Region (NCR),14:11.2,14.60797,121.0214
+ST-3096,Metro Manila,National Capital Region (NCR),46:20.2,14.5474,121.0508
+ST-2051,Metro Manila,National Capital Region (NCR),44:37.8,14.58418,121.06287
+ST-3351,Metro Manila,National Capital Region (NCR),51:43.2,14.722,121.0361
+ST-2163,Metro Manila,National Capital Region (NCR),41:58.5,14.70499,121.008
+ST-3323,Metro Manila,National Capital Region (NCR),48:03.7,14.626568,121.0609
+ST-1118,Metro Manila,National Capital Region (NCR),28:17.1,14.5848,121.06328
+ST-3611,Metro Manila,National Capital Region (NCR),03:34.4,14.6974,120.9748
+ST-1780,Metro Manila,National Capital Region (NCR),37:57.3,14.54292,121.01783
+ST-3441,Metro Manila,National Capital Region (NCR),42:10.7,14.6746,120.9632
+ST-0668,Metro Manila,National Capital Region (NCR),10:26.1,14.6364,121.0955
+ST-3479,Metro Manila,National Capital Region (NCR),02:52.0,14.5317,121.0718
+ST-2772,Metro Manila,National Capital Region (NCR),19:14.2,14.6615,120.9995
+ST-3298,Metro Manila,National Capital Region (NCR),08:11.8,14.4555187,121.0118
+ST-3541,Metro Manila,National Capital Region (NCR),48:47.9,14.5305,121.0087
+ST-3460,Metro Manila,National Capital Region (NCR),39:23.7,14.6394543,121.1217
+ST-3403,Metro Manila,National Capital Region (NCR),36:01.6,14.3765,121.0166
+ST-3281,Metro Manila,National Capital Region (NCR),59:20.9,14.6694713,121.0538
+ST-4330,Misamis Occidental,Northern Mindanao (Region X),22:53.6,8.41212,123.82374
+ST-3477,Misamis Occidental,Northern Mindanao (Region X),19:03.7,8.1505,123.8514
+ST-4066,Misamis Occidental,Northern Mindanao (Region X),19:04.6,8.146672,123.847345
+ST-3609,Misamis Occidental,Northern Mindanao (Region X),22:19.9,8.0635,123.7498
+ST-2423,Misamis Oriental,Northern Mindanao (Region X),44:41.8,8.4832,124.65138
+ST-2906,Misamis Oriental,Northern Mindanao (Region X),19:06.0,8.4993,124.6232
+ST-4718,Misamis Oriental,Northern Mindanao (Region X),24:59.1,8.744631,124.777109
+ST-2162,Misamis Oriental,Northern Mindanao (Region X),04:04.6,8.4817,124.6481
+ST-3336,Misamis Oriental,Northern Mindanao (Region X),48:43.7,8.5711,124.4743
+ST-4814,Misamis Oriental,Northern Mindanao (Region X),40:48.8,8.479957,124.725189
+ST-3910,Misamis Oriental,Northern Mindanao (Region X),49:29.5,8.78669,125.0951
+ST-1197,Negros Occidental,Central Visayas (Region VII),18:55.1,10.7991,122.9758
+ST-3372,Negros Occidental,Central Visayas (Region VII),46:17.1,10.677,122.9484
+ST-2056,Negros Occidental,Central Visayas (Region VII),46:01.9,10.95423,123.3067
+ST-2885,Negros Occidental,Central Visayas (Region VII),19:03.2,10.5959,123.4819
+ST-1905,Negros Occidental,Central Visayas (Region VII),20:16.1,10.6695,122.9873
+ST-2914,Negros Occidental,Central Visayas (Region VII),21:46.1,9.6267,122.4686
+ST-1483,Negros Occidental,Central Visayas (Region VII),09:48.5,10.42352,122.9207
+ST-3285,Negros Occidental,Central Visayas (Region VII),17:27.1,10.4889,122.9886
+ST-3355,Negros Occidental,Central Visayas (Region VII),42:10.7,10.7148,123.516536
+ST-1111,Negros Occidental,Central Visayas (Region VII),10:26.1,10.69414,122.9602
+ST-2269,Negros Occidental,Central Visayas (Region VII),02:52.0,10.6348,122.95759
+ST-1219,Negros Occidental,Central Visayas (Region VII),19:06.0,10.66203,122.96621
+ST-3520,Negros Oriental,Central Visayas (Region VII),19:01.5,9.2478,123.2947
+ST-2449,Negros Oriental,Central Visayas (Region VII),19:00.0,10.11934,123.27197
+ST-3407,Negros Oriental,Central Visayas (Region VII),19:05.1,9.3347,122.8622
+ST-2877,Negros Oriental,Central Visayas (Region VII),18:23.7,9.102,123.1992
+ST-2799,Negros Oriental,Central Visayas (Region VII),49:28.6,9.28076,123.24549
+ST-4435,North Cotabato,SOCCSKSARGEN (Region XII),16:04.8,7.156071146,125.0561346
+ST-3423,North Cotabato,SOCCSKSARGEN (Region XII),43:38.7,7.198,124.5381
+ST-3103,North Cotabato,SOCCSKSARGEN (Region XII),18:58.0,7.10643,124.823
+ST-3126,North Cotabato,SOCCSKSARGEN (Region XII),41:11.5,6.9466,124.8872
+ST-4730,North Cotabato,SOCCSKSARGEN (Region XII),14:11.2,7.20528,124.794808
+ST-3665,Nueva Ecija,Central Luzon (Region III),46:20.2,15.351438,120.93901
+ST-3574,Nueva Ecija,Central Luzon (Region III),44:37.8,15.5484,120.9337
+ST-4041,Nueva Ecija,Central Luzon (Region III),51:43.2,15.761856,120.957368
+ST-4409,Nueva Ecija,Central Luzon (Region III),41:58.5,15.78977,120.9979
+ST-0326,Nueva Ecija,Central Luzon (Region III),48:03.7,15.3075,120.94553
+ST-3416,Nueva Ecija,Central Luzon (Region III),28:17.1,15.5636,121.1011
+ST-2509,Nueva Ecija,Central Luzon (Region III),03:34.4,15.60339,121.0507
+ST-3369,Nueva Ecija,Central Luzon (Region III),37:57.3,15.7913,120.9893
+ST-2950,Nueva Ecija,Central Luzon (Region III),42:10.7,15.4734,120.9502
+ST-3600,Nueva Vizcaya,Cagayan Valley (Region II),10:26.1,16.365265,121.098414
+ST-3632,Oriental Mindoro,MIMAROPA (Region IV-B),02:52.0,13.2644,121.2644
+ST-3187,Oriental Mindoro,MIMAROPA (Region IV-B),19:14.2,13.0392,121.4798
+ST-4069,Pampanga,Central Luzon (Region III),08:11.8,15.016863,120.748203
+ST-2093,Pampanga,Central Luzon (Region III),48:47.9,15.14971,120.5842
+ST-1929,Pampanga,Central Luzon (Region III),39:23.7,15.08593,120.6662
+ST-4603,Pampanga,Central Luzon (Region III),36:01.6,15.23898,120.5794
+ST-4038,Pampanga,Central Luzon (Region III),59:20.9,15.1455305,120.5810969
+ST-3514,Pampanga,Central Luzon (Region III),22:53.6,14.9824,120.4807
+ST-0903,Pampanga,Central Luzon (Region III),19:03.7,15.0319,120.6894
+ST-4500,Pampanga,Central Luzon (Region III),19:04.6,15.16238,120.5524
+ST-4725,Pampanga,Central Luzon (Region III),22:19.9,14.99827209,120.7037259
+ST-1743,Pampanga,Central Luzon (Region III),48:43.7,15.14529,120.59492
+ST-3613,Pampanga,Central Luzon (Region III),40:48.8,15.1148,120.773
+ST-2338,Pampanga,Central Luzon (Region III),49:29.5,15.16847,120.59611
+ST-0607,Pampanga,Central Luzon (Region III),18:55.1,15.1437,120.5593
+ST-4478,Pampanga,Central Luzon (Region III),46:17.1,15.10724,120.6605
+ST-4317,Pampanga,Central Luzon (Region III),46:01.9,15.22385,120.578
+ST-1520,Pampanga,Central Luzon (Region III),19:03.2,14.9706,120.6051
+ST-3604,Pampanga,Central Luzon (Region III),20:16.1,15.2261,120.6295
+ST-4258,Pampanga,Central Luzon (Region III),21:46.1,15.1606,120.6853
+ST-3356,Pampanga,Central Luzon (Region III),09:48.5,15.1848,120.5268
+ST-2415,Pampanga,Central Luzon (Region III),37:57.3,15.0244,120.6766
+ST-1870,Pampanga,Central Luzon (Region III),42:10.7,15.1134,120.6083
+ST-4002,Pangasinan,Ilocos Region (Region I),10:26.1,16.156828,119.977558
+ST-3564,Pangasinan,Ilocos Region (Region I),02:52.0,16.0153,120.3555
+ST-4506,Pangasinan,Ilocos Region (Region I),19:14.2,16.16568,119.9849
+ST-1362,Pangasinan,Ilocos Region (Region I),08:11.8,16.11167,120.54397
+ST-3134,Pangasinan,Ilocos Region (Region I),48:47.9,16.2897,119.9496
+ST-2559,Pangasinan,Ilocos Region (Region I),39:23.7,15.98837,119.87508
+ST-4545,Pangasinan,Ilocos Region (Region I),36:01.6,15.88283,120.326
+ST-4660,Pangasinan,Ilocos Region (Region I),59:20.9,15.987529,120.363163
+ST-1803,Pangasinan,Ilocos Region (Region I),22:53.6,15.9538,120.2177
+ST-4504,Pangasinan,Ilocos Region (Region I),19:03.7,16.06707,120.3353
+ST-3133,Pangasinan,Ilocos Region (Region I),19:04.6,16.0193,120.2315
+ST-0699,Pangasinan,Ilocos Region (Region I),22:19.9,16.0415,120.334
+ST-2570,Pangasinan,Ilocos Region (Region I),44:41.8,15.9339,120.3476
+ST-3487,Pangasinan,Ilocos Region (Region I),19:06.0,15.9195,120.3559
+ST-3338,Pangasinan,Ilocos Region (Region I),24:59.1,15.983,120.4611
+ST-4252,Pangasinan,Ilocos Region (Region I),04:04.6,15.92834,120.580441
+ST-2027,Pangasinan,Ilocos Region (Region I),48:43.7,15.99788,120.40493
+ST-0807,Pangasinan,Ilocos Region (Region I),40:48.8,15.9866,120.5724
+ST-4531,Quezon,CALABARZON (Region IV-A),49:29.5,13.954354,121.33925
+ST-1753,Quezon,CALABARZON (Region IV-A),18:55.1,13.953,122.2972
+ST-4392,Quezon,CALABARZON (Region IV-A),46:17.1,14.01346688,121.3905034
+ST-2942,Quezon,CALABARZON (Region IV-A),46:01.9,14.662,121.6041
+ST-0882,Quezon,CALABARZON (Region IV-A),19:03.2,14.002,121.9208
+ST-3300,Quezon,CALABARZON (Region IV-A),20:16.1,13.9759,121.5571
+ST-1997,Rizal,CALABARZON (Region IV-A),21:46.1,14.54613,121.3652
+ST-4441,Rizal,CALABARZON (Region IV-A),09:48.5,14.584195,121.111608
+ST-3549,Rizal,CALABARZON (Region IV-A),17:27.1,14.7464,121.141
+ST-1150,Rizal,CALABARZON (Region IV-A),42:10.7,14.5229,121.26558
+ST-4080,Rizal,CALABARZON (Region IV-A),10:26.1,14.57455512,121.1084235
+ST-2995,Rizal,CALABARZON (Region IV-A),02:52.0,14.5056547,121.2897
+ST-4651,Rizal,CALABARZON (Region IV-A),19:06.0,14.690716,121.129429
+ST-4309,Rizal,CALABARZON (Region IV-A),19:01.5,14.56648,121.123464
+ST-1911,Rizal,CALABARZON (Region IV-A),19:00.0,14.58291,121.12701
+ST-0784,Rizal,CALABARZON (Region IV-A),19:05.1,14.55825,121.2106
+ST-2976,Rizal,CALABARZON (Region IV-A),18:23.7,14.548,121.19
+ST-3354,Rizal,CALABARZON (Region IV-A),49:28.6,14.5597246,121.2058
+ST-3382,Rizal,CALABARZON (Region IV-A),16:04.8,14.5914,121.1385
+ST-3347,Rizal,CALABARZON (Region IV-A),43:38.7,14.5926,121.1131
+ST-3266,Rizal,CALABARZON (Region IV-A),18:58.0,14.4684,121.1908
+ST-3223,Rizal,CALABARZON (Region IV-A),41:11.5,14.5433,121.107
+ST-3371,Rizal,CALABARZON (Region IV-A),14:11.2,14.6189,121.1524
+ST-4465,Rizal,CALABARZON (Region IV-A),46:20.2,14.7341286,121.1281722
+ST-4010,Rizal,CALABARZON (Region IV-A),44:37.8,14.35196,121.3235
+ST-3333,Rizal,CALABARZON (Region IV-A),51:43.2,14.6226,121.1897
+ST-3305,Sarangani,SOCCSKSARGEN (Region XII),41:58.5,5.9675,125.2856
+ST-3051,Sarangani,SOCCSKSARGEN (Region XII),48:03.7,5.86173,124.9956
+ST-3904,Sorsogon,Bicol Region (Region V),28:17.1,14.173657,122.907524
+ST-2620,South Cotabato,SOCCSKSARGEN (Region XII),03:34.4,6.12713,125.17129
+ST-3237,South Cotabato,SOCCSKSARGEN (Region XII),37:57.3,6.4303,124.7702
+ST-4736,South Cotabato,SOCCSKSARGEN (Region XII),42:10.7,6.61889,124.7495
+ST-4567,Southern Leyte,Eastern Visayas (Region VIII),10:26.1,10.156137,125.123392
+ST-3453,Sultan Kudarat,SOCCSKSARGEN (Region XII),02:52.0,6.6829,124.6654
+ST-3375,Surigao del Sur,Caraga Region (Region XIII),19:14.2,9.0387,126.2173
+ST-3634,Surigao del Sur,Caraga Region (Region XIII),08:11.8,8.4585,126.1566
+ST-3039,Surigao Del Sur,Caraga Region (Region XIII),48:47.9,8.1835159,126.3563
+ST-3315,Surigao Del Sur,Caraga Region (Region XIII),39:23.7,9.3648,125.9445
+ST-4386,Surigao Del Sur,Caraga Region (Region XIII),36:01.6,8.035223728,126.4135992
+ST-3493,Surigao Del Sur,Caraga Region (Region XIII),59:20.9,8.3678,126.3381
+ST-3394,Surigao del Sur,Caraga Region (Region XIII),22:53.6,8.8007,126.2982
+ST-4046,Surigao Del Sur,Caraga Region (Region XIII),19:03.7,8.941897254,126.0409308
+ST-4034,Tarlac,Central Luzon (Region III),19:04.6,15.47587,120.586624
+ST-0954,Tarlac,Central Luzon (Region III),22:19.9,15.4974,120.6008
+ST-0424,Tarlac,Central Luzon (Region III),48:43.7,15.3326,120.59053
+ST-0561,Tarlac,Central Luzon (Region III),40:48.8,15.496,120.5964
+ST-4503,Tarlac,Central Luzon (Region III),48:03.7,15.473119,120.607131
+ST-3435,Tarlac,Central Luzon (Region III),28:17.1,15.4906,120.5839
+ST-1547,Zambales,Central Luzon (Region III),03:34.4,14.82051,120.27567
+ST-4685,Zambales,Central Luzon (Region III),37:57.3,16.30523,119.7825
+ST-0443,Zambales,Central Luzon (Region III),42:10.7,14.84212,120.28802
+ST-1658,Zambales,Central Luzon (Region III),10:26.1,14.84501,120.2906
+ST-1759,Zambales,Central Luzon (Region III),02:52.0,15.4336,119.90878
+ST-1758,Zambales,Central Luzon (Region III),19:14.2,14.8513,120.2565
+ST-4218,Zambales,Central Luzon (Region III),08:11.8,14.84954109,120.304657
+ST-4784,Zamboanga del Norte,Zamboanga Peninsula (Region IX),48:47.9,8.605062,123.347845
+ST-4887,Zamboanga Del Sur,Zamboanga Peninsula (Region IX),39:23.7,7.821993,123.436012
+ST-5231,,,36:01.6,0,0
+ST-4727,,,59:20.9,0,0
+ST-4807,,,22:53.6,0,0
+ST-5065,,,19:03.7,0,0
+ST-5028,,,19:04.6,0,0
+ST-4934,,,22:19.9,0,0
+ST-4823,,,48:43.7,0,0
+ST-5258,,,40:48.8,0,0
+ST-5345,,,49:29.5,0,0
+ST-5101,,,18:55.1,0,0
+ST-4895,,,46:17.1,0,0
+ST-5068,,,46:01.9,0,0
+ST-5226,,,19:03.2,0,0
+ST-5255,,,20:16.1,0,0
+ST-5160,,,21:46.1,0,0
+ST-4834,,,09:48.5,0,0
+ST-4393,,,37:57.3,0,0
+ST-3940,,,42:10.7,12.520024,121.438251
+ST-4583,,,10:26.1,0,0
+ST-4870,,,02:52.0,0,0
+ST-5098,,,19:14.2,0,0
+ST-5367,,,08:11.8,0,0
+ST-4680,,,48:47.9,0,0
+ST-5295,,,39:23.7,0,0
+ST-5035,,,36:01.6,0,0
+ST-5165,,,59:20.9,0,0
+ST-5182,,,22:53.6,0,0
+ST-5016,,,19:06.0,0,0
+ST-5388,,,19:01.5,0,0
+ST-5108,,,19:00.0,0,0
+ST-4775,,,19:05.1,0,0
+ST-4616,,,18:23.7,0,0
+ST-5148,,,49:28.6,0,0
+ST-5076,,,16:04.8,0,0
+ST-5060,,,43:38.7,0,0
+ST-5015,,,18:58.0,0,0
+ST-4889,,,41:11.5,0,0
+ST-5122,,,14:11.2,0,0
+ST-5117,,,46:20.2,0,0
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

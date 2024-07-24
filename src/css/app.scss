@@ -1,1 +1,37 @@
 // app global css in SCSS form
+/* Custom cluster styles */
+.custom-cluster-yellow {
+  background-color: #f5f5a4; /* Soft Yellow */
+  color: black;
+}
+
+.custom-cluster-orange {
+  background-color: #ffa500; /* Orange */
+  color: white;
+}
+
+.custom-cluster-red {
+  background-color: #ff6347; /* Red */
+  color: white;
+}
+
+.custom-cluster-dark-red {
+  background-color: #8b0000; /* Dark Red */
+  color: white;
+}
+
+.custom-cluster-soft-yellow {
+  background-color: #ffffe0; /* Very Soft Yellow */
+  color: black;
+}
+
+.custom-cluster-icon {
+  font-weight: bold; /* Text weight */
+}
+
+.custom-cluster-icon2 {
+  border-radius: 50%;
+  line-height: 40px; /* Adjust to match icon size */
+  text-align: center;
+  border: 1px solid #000; /* Optional border */
+}
